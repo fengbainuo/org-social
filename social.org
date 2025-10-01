@@ -26,3 +26,14 @@ I wonder if this works
 
 
 
+
+**
+:PROPERTIES:
+:ID: 2025-10-01T16:21:57+0200
+:LANG: en
+:TAGS: 
+:CLIENT: org-social.el
+:MOOD: curious
+:END:
+
+org-social.el 2 is looking awesome! Have to confess, this is the geekiest social I've ever used, but also the one that's the most interesting. Hope more emacs user will consider joining!
