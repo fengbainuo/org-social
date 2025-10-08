@@ -1,8 +1,13 @@
 #+TITLE: Qrvhh's page
+
 #+NICK: Qrvhh
+
 #+DESCRIPTION: Striving for the ultimate minimalist etc etc etc....
+
 #+AVATAR: https://media.mstdn.social/accounts/avatars/111/348/090/707/184/525/original/0e6f7c7311f19321.png
+
 #+LINK: https://blog.benedekvigh.hu
+
 #+FOLLOW: https://sachachua.com/social.org
 
 * Posts
