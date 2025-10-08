@@ -24,9 +24,6 @@ Still figuring out how this timestamp should work...
 
 I wonder if this works
 
-
-
-
 **
 :PROPERTIES:
 :ID: 2025-10-01T16:21:57+0200
@@ -37,3 +34,15 @@ I wonder if this works
 :END:
 
 org-social.el 2 is looking awesome! Have to confess, this is the geekiest social I've ever used, but also the one that's the most interesting. Hope more emacs user will consider joining!
+
+**
+:PROPERTIES:
+:ID: 2025-10-08T14:04:25+0200
+:LANG: 
+:TAGS: 
+:CLIENT: org-social.el
+:REPLY_TO: https://andros.dev/static/social.org#2025-10-07T12:04:13+0200
+:MOOD: happy
+:END:
+
+Awesome, finally got to fix my social.org file! Thank you for this update as well!
