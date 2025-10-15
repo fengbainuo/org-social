@@ -73,4 +73,4 @@ Auto-commit could probably be set up with magit and a hook? I'm also thinking of
 :MOOD: 
 :END:
 
-Testing out the one-command solution to push changes to my org-social file in one step.
+Testing out the one-command solution to push changes to my org-social file in one step......
