@@ -63,3 +63,14 @@ Awesome, finally got to fix my social.org file! Thank you for this update as wel
 :END:
 
 Auto-commit could probably be set up with magit and a hook? I'm also thinking of doing something like that currently, I feel like it should be possible in a relatively simple way. Will post about once I manage to get it up and running.
+
+**
+:PROPERTIES:
+:ID: 2025-10-15T09:56:26+0200
+:LANG: en
+:TAGS: test
+:CLIENT: org-social.el
+:MOOD: 
+:END:
+
+Testing out the elisp function that should auto-commit my social.org file upon saving - seems like it's not working.
