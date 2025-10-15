@@ -51,3 +51,15 @@ org-social.el 2 is looking awesome! Have to confess, this is the geekiest social
 :END:
 
 Awesome, finally got to fix my social.org file! Thank you for this update as well!
+
+**
+:PROPERTIES:
+:ID: 2025-10-15T08:49:53+0200
+:LANG: en
+:TAGS: 
+:CLIENT: org-social.el
+:REPLY_TO: https://codeberg.org/eludom/org-social/raw/branch/main/social.org#2025-10-13T07:40:24-0400
+:MOOD: 
+:END:
+
+Auto-commit could probably be set up with magit and a hook? I'm also thinking of doing something like that currently, I feel like it should be possible in a relatively simple way. Will post about once I manage to get it up and running.
