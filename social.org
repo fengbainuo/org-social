@@ -88,3 +88,15 @@ Testing out the one-command solution to push changes to my org-social file in on
 This was done in elisp, which I'm not familiar enough with, so was done using ai. I'm surprised it works, but I'll probably not use it, unless I can write it for myself.
 
 I'm not against /AI-assisted/ coding, but I'd rather not rely on something that's written almost entirely with AI by someone who is not familiar with the language (me in this case).
+
+**
+:PROPERTIES:
+:ID: 2025-10-17T12:55:12+0200
+:LANG: en
+:TAGS: 
+:CLIENT: org-social.el
+:REPLY_TO: https://thesolarprincess.site/social.org#2025-10-16T23:00:00-0300
+:MOOD: 
+:END:
+
+Welcome! Just checked out your blog, nice to see that it works in eww!
