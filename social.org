@@ -100,3 +100,16 @@ I'm not against /AI-assisted/ coding, but I'd rather not rely on something that'
 :END:
 
 Welcome! Just checked out your blog, nice to see that it works in eww!
+
+**
+:PROPERTIES:
+:ID: 2025-10-17T13:19:01+0200
+:LANG: en
+:TAGS: games pso ps0 
+:CLIENT: org-social.el
+:MOOD: 🎮
+:END:
+
+Started up my old 3DS this week after a long time, and played some Phantasy Star 0 - I can't say I have nostalgia for /this/ game or console in particular, as I've played this game for the first time ever maybe last year, when I also purchased this used console. I *do* however have nostalgia for old games in general, which is probably the reason why I enjoy playing this somewhat clunky sci-fi rpg every once in a while.
+
+Not quite the same as Phantasy Star Online Blue Burst, but for someone like me who commutes a lot, it's a relaxing activity for when I'm too tired to spend the time with doing something productive.
