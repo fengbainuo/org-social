@@ -2,7 +2,7 @@
 
 #+NICK: Qrvhh
 
-#+DESCRIPTION: Striving for the ultimate minimalist etc etc etc....
+#+DESCRIPTION: striving for the ultimate minimalist, productive, stable setup - like a piece of paper and a pencil, just digital... GNU/Linux, BSD, Solaris, emacs, light themes, traveling, reading, podcasts, cooking, learning languages, tinkering with old-tech, self-hosting, gym/calisthenics, decluttering/minimalism and occasionally writing
 
 #+AVATAR: https://media.mstdn.social/accounts/avatars/111/348/090/707/184/525/original/0e6f7c7311f19321.png
 
