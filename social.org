@@ -11,14 +11,14 @@
 #+FOLLOW: https://sachachua.com/social.org
 
 * Posts
-**
+** 
 :PROPERTIES:
 :ID: 2025-09-25T15:14:00+02:00
 :END:
 
 Still figuring out how this timestamp should work...
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-09-25T15:23:30+0200
 :LANG: 
@@ -29,7 +29,7 @@ Still figuring out how this timestamp should work...
 
 I wonder if this works
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-10-01T16:21:57+0200
 :LANG: en
@@ -40,7 +40,7 @@ I wonder if this works
 
 org-social.el 2 is looking awesome! Have to confess, this is the geekiest social I've ever used, but also the one that's the most interesting. Hope more emacs user will consider joining!
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-10-08T14:04:25+0200
 :LANG: 
@@ -52,7 +52,7 @@ org-social.el 2 is looking awesome! Have to confess, this is the geekiest social
 
 Awesome, finally got to fix my social.org file! Thank you for this update as well!
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-10-15T08:49:53+0200
 :LANG: en
@@ -64,7 +64,7 @@ Awesome, finally got to fix my social.org file! Thank you for this update as wel
 
 Auto-commit could probably be set up with magit and a hook? I'm also thinking of doing something like that currently, I feel like it should be possible in a relatively simple way. Will post about once I manage to get it up and running.
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-10-15T09:56:26+0200
 :LANG: en
@@ -75,7 +75,7 @@ Auto-commit could probably be set up with magit and a hook? I'm also thinking of
 
 Testing out the one-command solution to push changes to my org-social file in one step......
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-10-15T10:25:11+0200
 :LANG: en
@@ -89,7 +89,7 @@ This was done in elisp, which I'm not familiar enough with, so was done using ai
 
 I'm not against /AI-assisted/ coding, but I'd rather not rely on something that's written almost entirely with AI by someone who is not familiar with the language (me in this case).
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-10-17T12:55:12+0200
 :LANG: en
@@ -101,7 +101,7 @@ I'm not against /AI-assisted/ coding, but I'd rather not rely on something that'
 
 Welcome! Just checked out your blog, nice to see that it works in eww!
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-10-17T13:19:01+0200
 :LANG: en
@@ -113,3 +113,20 @@ Welcome! Just checked out your blog, nice to see that it works in eww!
 Started up my old 3DS this week after a long time, and played some Phantasy Star 0 - I can't say I have nostalgia for /this/ game or console in particular, as I've played this game for the first time ever maybe last year, when I also purchased this used console. I *do* however have nostalgia for old games in general, which is probably the reason why I enjoy playing this somewhat clunky sci-fi rpg every once in a while.
 
 Not quite the same as Phantasy Star Online Blue Burst, but for someone like me who commutes a lot, it's a relaxing activity for when I'm too tired to spend the time with doing something productive.
+
+** 
+:PROPERTIES:
+:ID: 2025-12-21T09:30:44+0100
+:LANG: en
+:TAGS: return emacs fedora suse
+:CLIENT: org-social.el
+:MOOD: 🏠
+:END:
+
+After a few months off-emacs, I've finally returned, and had to fire up org-social, see how things are going here - and I'm glad to see it's still at least as, if not more, active as it used to be.
+
+I've just started setting up things in emacs as I like, although I'm still far from completion, but I find it relaxing in a way to replicate an old setup from scratch, instead of copying my ready config.
+
+I'm currently on Fedora 43 on my ThinkPad X220, because Ubuntu gave me some trouble running WeChat - oh right, I just realized WeChat is now natively available on Linux, which is great! On Fedora and openSuse it works out of the box, and while I generally favor SUSE over Red Hat, this laptop's implementation of UEFI makes openSuse and SLED boot into grub rescue instead of the OS. Interesting that it only happens there, and not on other distros.
+
+Anyways, let's see how long I manage to stick with Fedora, and I'm looking forward to use emacs and org-social again!
