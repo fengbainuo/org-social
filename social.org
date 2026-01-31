@@ -130,3 +130,14 @@ I've just started setting up things in emacs as I like, although I'm still far f
 I'm currently on Fedora 43 on my ThinkPad X220, because Ubuntu gave me some trouble running WeChat - oh right, I just realized WeChat is now natively available on Linux, which is great! On Fedora and openSuse it works out of the box, and while I generally favor SUSE over Red Hat, this laptop's implementation of UEFI makes openSuse and SLED boot into grub rescue instead of the OS. Interesting that it only happens there, and not on other distros.
 
 Anyways, let's see how long I manage to stick with Fedora, and I'm looking forward to use emacs and org-social again!
+
+** 
+:PROPERTIES:
+:ID: 2026-01-31T23:13:53+0100
+:TAGS: 
+:CLIENT: org-social.el
+:REPLY_TO: https://thesolarprincess.github.io/social.org#2026-01-31T17:31:41-0300
+:MOOD: 
+:END:
+
+Yep, same here... well, except I saw your post, and one other, newer post. Nothing else
